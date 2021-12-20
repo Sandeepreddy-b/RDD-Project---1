@@ -1,8 +1,8 @@
 Your task is to use RDD to estimate the effect of the following events in Quebec:
 
-The 20/3/2020 lockdown
-The reopening of schools on 31/8/2020
-The 25/12/2020 lockdown
+-- The 20/3/2020 lockdown
+-- The reopening of schools on 31/8/2020
+-- The 25/12/2020 lockdown
 Requirements
 You need to find data on at least one COVID measure for y (either COVID cases, hospitalizations or deaths) and provide the following for each:
 
